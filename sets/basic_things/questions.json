@@ -1,102 +1,102 @@
 [
   {
+    "image": "apple.jpg",
     "answers": [
       "banana",
       "apple",
       "pear",
       "strawberry"
     ],
-    "correct": 1,
-    "file": "apple.jpg"
+    "correct": 1
   },
   {
+    "image": "bike.png",
     "answers": [
       "car",
       "wheels",
       "motorcycle",
       "bike"
     ],
-    "correct": 3,
-    "file": "bike.png"
+    "correct": 3
   },
   {
+    "image": "cat.jpg",
     "answers": [
       "dog",
       "fish",
       "cat",
       "lion"
     ],
-    "correct": 2,
-    "file": "cat.jpg"
+    "correct": 2
   },
   {
+    "image": "chair.jpg",
     "answers": [
       "chair",
       "table",
       "door",
       "drawer"
     ],
-    "correct": 0,
-    "file": "chair.jpg"
+    "correct": 0
   },
   {
+    "image": "house.jpg",
     "answers": [
       "garage",
       "shop",
       "castle",
       "house"
     ],
-    "correct": 3,
-    "file": "house.jpg"
+    "correct": 3
   },
   {
+    "image": "kettle.jpg",
     "answers": [
       "kettle",
       "pot",
       "glass",
       "fork"
     ],
-    "correct": 0,
-    "file": "kettle.jpg"
+    "correct": 0
   },
   {
+    "image": "pen.jpg",
     "answers": [
       "pencil",
       "pen",
       "crayon",
       "knife"
     ],
-    "correct": 1,
-    "file": "pen.jpg"
+    "correct": 1
   },
   {
+    "image": "plane.jpg",
     "answers": [
       "car",
       "boat",
       "plane",
       "bike"
     ],
-    "correct": 2,
-    "file": "plane.jpg"
+    "correct": 2
   },
   {
+    "image": "smartphone.jpg",
     "answers": [
       "smartphone",
       "laptop",
       "keyboard",
       "torch"
     ],
-    "correct": 0,
-    "file": "smartphone.jpg"
+    "correct": 0
   },
   {
+    "image": "tree.jpg",
     "answers": [
       "flower",
       "fern",
       "animal",
       "tree"
     ],
-    "correct": 3,
-    "file": "tree.jpg"
+    "correct": 3
   }
 ]
