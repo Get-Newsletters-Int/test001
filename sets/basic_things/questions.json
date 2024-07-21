@@ -1,0 +1,92 @@
+[
+  {
+    "incorrect_answers": [
+      "banana",
+      "pear",
+      "strawberry"
+    ],
+    "correct_answer": "apple",
+    "file": "apple.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "car",
+      "wheels",
+      "motorcycle"
+    ],
+    "correct_answer": "bike",
+    "file": "bike.png"
+  },
+  {
+    "incorrect_answers": [
+      "dog",
+      "fish",
+      "lion"
+    ],
+    "correct_answer": "cat",
+    "file": "cat.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "table",
+      "door",
+      "drawer"
+    ],
+    "correct_answer": "chair",
+    "file": "chair.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "garage",
+      "shop",
+      "castle"
+    ],
+    "correct_answer": "house",
+    "file": "house.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "pot",
+      "glass",
+      "fork"
+    ],
+    "correct_answer": "kettle",
+    "file": "kettle.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "pencil",
+      "crayon",
+      "knife"
+    ],
+    "correct_answer": "pen",
+    "file": "pen.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "car",
+      "boat",
+      "bike"
+    ],
+    "correct_answer": "plane",
+    "file": "plane.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "laptop",
+      "keyboard",
+      "torch"
+    ],
+    "correct_answer": "smartphone",
+    "file": "smartphone.jpg"
+  },
+  {
+    "incorrect_answers": [
+      "flower",
+      "fern",
+      "animal"
+    ],
+    "correct_answer": "tree",
+    "file": "tree.jpg"
+  }
+]
